@@ -1,0 +1,40 @@
+/*The reason I have also created a css file is beacuse I want this program to look better. This file can me removed if you would like me to follow my original rule on my proposal 
+of only javascript.*/
+.classaverage {
+    background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+    margin-top: 20px;
+    border: 10px dotted black;
+    padding: 35px;  
+}
+.classaverage h2{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
+#Ablock {
+    border-radius: 5px;
+    padding: 10px;
+}
+#Bblock {
+    border-radius: 5px;
+    padding: 10px;
+}
+#Cblock {
+    border-radius: 5px;
+    padding: 10px;
+}
+#Dblock {
+    border-radius: 5px;
+    padding: 10px;
+}
+button{
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 20px;
+
+}
